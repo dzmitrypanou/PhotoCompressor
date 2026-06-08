@@ -1,0 +1,18 @@
+:root {
+  --bg-primary: #313338;
+  --bg-secondary: #2b2d31;
+  --bg-tertiary: #1e1f22;
+  --bg-modifier-hover: rgba(79, 84, 92, 0.16);
+  --bg-modifier-selected: rgba(79, 84, 92, 0.32);
+  --brand: #5865f2;
+  --brand-hover: #4752c4;
+  --text-normal: #dbdee1;
+  --text-muted: #949ba4;
+  --channel-icon: #80848e;
+  --success: #23a559;
+  --danger: #f23f43;
+  --border-subtle: rgba(255, 255, 255, 0.06);
+  --scrollbar-thumb: #1a1b1e;
+  --font-primary: 'gg sans', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --font-mono: 'Consolas', 'Courier New', monospace;
+}
