@@ -3,7 +3,7 @@ import { mkdir, stat } from 'fs/promises'
 import { dirname, extname, join, relative } from 'path'
 import sharp from 'sharp'
 import type { CompressionOptions } from '../../src/types'
-import { getPreset } from './presets'
+import { getPreset } from '../../shared/presets'
 import { fileIsNewer } from './scanner'
 
 interface WorkerJob {
