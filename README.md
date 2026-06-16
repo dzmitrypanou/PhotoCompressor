@@ -93,4 +93,4 @@ scripts/            Icon generation script
 
 ## License
 
-MIT
+Free to use, no copyrights! 😘
